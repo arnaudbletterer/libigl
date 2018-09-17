@@ -8,6 +8,7 @@
 
 #include "extract_feature.h"
 #include <igl/unique_edge_map.h>
+#include <igl/PI.h>
 #include <CGAL/Kernel/global_functions.h>
 #include <CGAL/Exact_predicates_exact_constructions_kernel.h>
 
